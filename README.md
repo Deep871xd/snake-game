@@ -7,18 +7,12 @@ Snake (extends JFrame and invokes the GameControl class) GameControl (extends JP
 
 # The GameControl class provides following methods:
 
-# GameControl() -
-It initializes Board Panel. 
-# loadImages() - 
-It loads images of Snake head, Snake body and food. 
-# initGame() - 
-It initializes Game. 
-# checkCollision() - 
-It checks collision of Snake's head with an obstacle (itself/food/wall). 
-# locateApple() - 
-It randomize Apple position every time. 
-# gameOver() -
-It displays Game Over massage and player's score.
+**GameControl()** - It initializes Board Panel. 
+**loadImages()**- It loads images of Snake head, Snake body and food. 
+**initGame() **- It initializes Game. 
+**checkCollision()** - It checks collision of Snake's head with an obstacle (itself/food/wall). 
+**locateApple()** - It randomize Apple position every time. 
+**gameOver()**-It displays Game Over massage and player's score.
 
 # This game includes the following functionalities:
 
@@ -26,8 +20,7 @@ The player can move the snake left, rigt, up, and down as per the given directio
 
 # Design elements -
 
-# Snake head: 
-represented by green dot. Snake body: represented by red dot. Food: represented by an apple.
+**Snake head:** represented by green dot. Snake body: represented by red dot. Food: represented by an apple.
 
 ![36a8b1fc-ce95-426c-ad7b-2759ae324d9d](https://github.com/Deep871xd/snake-game/assets/102525444/f32ab354-6db0-4fff-a0ba-017ce69f563d)
 
