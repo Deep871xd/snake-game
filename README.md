@@ -1,7 +1,7 @@
 # snake-game
 It is a Java project that uses the inheritence, abstraction, and encapsulation concepts found in object-oriented programming. All the parts are organised using the JAVA Swing and AWT library.
 
-# It icludes two main classes:
+# It includes two main classes:
 
 Snake (extends JFrame and invokes the GameControl class) GameControl (extends JPanel)
 
