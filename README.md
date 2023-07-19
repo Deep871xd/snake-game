@@ -9,7 +9,7 @@ Snake (extends JFrame and invokes the GameControl class) GameControl (extends JP
 
 **GameControl()** - It initializes Board Panel. 
 **loadImages()**- It loads images of Snake head, Snake body and food. 
-**initGame() **- It initializes Game. 
+**initGame()**- It initializes Game. 
 **checkCollision()** - It checks collision of Snake's head with an obstacle (itself/food/wall). 
 **locateApple()** - It randomize Apple position every time. 
 **gameOver()**-It displays Game Over massage and player's score.
